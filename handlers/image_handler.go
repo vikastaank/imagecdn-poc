@@ -19,7 +19,7 @@ func GetImageData(c *gin.Context) {
 	fmt.Println(urlKey)
 	if urlKey == "" {
 		Logger.Error("image identifier key not received in query string params")
-		c.JSON(http.StatusBadRequest, nil)
+		c.JSON(http.StatusBadRequest, gin.H{"msg": constants.BAD_REQUEST_ERR})
 		return
 	}
 
@@ -35,7 +35,7 @@ func GetImageData(c *gin.Context) {
 			c.JSON(http.StatusBadRequest, gin.H{"msg": constants.INVALID_URL_IDENTIFIER_KEY})
 			return
 		}
-		c.JSON(http.StatusBadRequest, gin.H{"msg": "Internal server error"})
+		c.JSON(http.StatusBadRequest, gin.H{"msg": constants.INTERNAL_SERVER_ERR})
 		return
 	}
 	contextLogger.Infof("Image key received in query string params decoded as : %s", string(decodedImgKey))
@@ -48,14 +48,14 @@ func GetImageData(c *gin.Context) {
 	} else {
 		exists := services.CheckInDiskCache(string(decodedImgKey), contextLogger)
 		if !exists {
-			c.JSON(http.StatusNotFound, gin.H{"msg": "Image not found"})
+			c.JSON(http.StatusNotFound, gin.H{"msg": constants.IMG_NOT_FOUND_ERR})
 			return
 		}
 
 		imgRawData, err = services.GetImgRawDataFromDiskCache(string(decodedImgKey), contextLogger)
 		if err != nil {
 			contextLogger.Errorf("error occurred while getting raw data from disk-cache: %s", err.Error())
-			c.JSON(http.StatusInternalServerError, gin.H{"msg": "Internal server error"})
+			c.JSON(http.StatusInternalServerError, gin.H{"msg": constants.INTERNAL_SERVER_ERR})
 		} else {
 			contextLogger.Info("returning data from disk cache")
 			services.AddInMemoryCache(urlKey, imgRawData, contextLogger)
@@ -64,3 +64,4 @@ func GetImageData(c *gin.Context) {
 	}
 	return
 }
+
