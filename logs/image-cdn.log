@@ -1,0 +1,49 @@
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"Image key received in query string params decoded as : sample_media_file.png","time":"2023-05-03T00:21:45+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"returning data from disk cache","time":"2023-05-03T00:21:45+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"AddInMemoryCache:: adding in memory cache for img key","time":"2023-05-03T00:21:45+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"Image key received in query string params decoded as : sample_media_file.png","time":"2023-05-03T00:21:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:21:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"Image key received in query string params decoded as : sample_media_file.png","time":"2023-05-03T00:22:13+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:22:13+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"Image key received in query string params decoded as : sample_media_file.png","time":"2023-05-03T00:22:13+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:22:13+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"Image key received in query string params decoded as : sample_media_file.png","time":"2023-05-03T00:22:14+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:22:14+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"Image key received in query string params decoded as : sample_media_file.png","time":"2023-05-03T00:22:14+05:30"}
+{"ImgEncodedKey":"c2FtcGxlX21lZGlhX2ZpbGUucG5n","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:22:14+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:12+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from disk cache","time":"2023-05-03T00:31:12+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"AddInMemoryCache:: adding in memory cache for img key","time":"2023-05-03T00:31:12+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:15+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:15+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:16+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:16+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:16+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:16+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:17+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:17+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:17+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:17+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:34+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from disk cache","time":"2023-05-03T00:31:34+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"AddInMemoryCache:: adding in memory cache for img key","time":"2023-05-03T00:31:34+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:35+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:35+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"Image key received in query string params decoded as : testing.jpeg","time":"2023-05-03T00:31:35+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn","level":"info","msg":"returning data from in-memory cache","time":"2023-05-03T00:31:35+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn1","level":"error","msg":"DecodeImgUrlKey :: error occurred - illegal base64 data at input byte 16","time":"2023-05-03T00:31:40+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn1","level":"error","msg":"error occurred while decoding the img key: illegal base64 data at input byte 16","time":"2023-05-03T00:31:40+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn1","level":"error","msg":"DecodeImgUrlKey :: error occurred - illegal base64 data at input byte 16","time":"2023-05-03T00:31:52+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn1","level":"error","msg":"error occurred while decoding the img key: illegal base64 data at input byte 16","time":"2023-05-03T00:31:52+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn1","level":"error","msg":"DecodeImgUrlKey :: error occurred - illegal base64 data at input byte 16","time":"2023-05-03T00:31:53+05:30"}
+{"ImgEncodedKey":"dGVzdGluZy5qcGVn1","level":"error","msg":"error occurred while decoding the img key: illegal base64 data at input byte 16","time":"2023-05-03T00:31:53+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"Image key received in query string params decoded as : sample1.png","time":"2023-05-03T00:31:56+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"CheckInDiskCache :: File does not exist in disk cache : sample1.png","time":"2023-05-03T00:31:56+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"Image key received in query string params decoded as : sample1.png","time":"2023-05-03T00:31:58+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"CheckInDiskCache :: File does not exist in disk cache : sample1.png","time":"2023-05-03T00:31:58+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"Image key received in query string params decoded as : sample1.png","time":"2023-05-03T00:31:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"CheckInDiskCache :: File does not exist in disk cache : sample1.png","time":"2023-05-03T00:31:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"Image key received in query string params decoded as : sample1.png","time":"2023-05-03T00:31:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"CheckInDiskCache :: File does not exist in disk cache : sample1.png","time":"2023-05-03T00:31:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"Image key received in query string params decoded as : sample1.png","time":"2023-05-03T00:31:59+05:30"}
+{"ImgEncodedKey":"c2FtcGxlMS5wbmc=","level":"info","msg":"CheckInDiskCache :: File does not exist in disk cache : sample1.png","time":"2023-05-03T00:31:59+05:30"}
