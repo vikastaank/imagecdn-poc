@@ -12,3 +12,4 @@ Sample image cdn API which will accept image identifier key in query string para
 http://localhost:8080/v1/images?url=dGVzdGluZy5qcGVn
 http://localhost:8080/v1/images?url=c2FtcGxlX21lZGlhX2ZpbGUucG5n
 ```
+![Alt text](Screenshot%20from%202023-05-03%2001-12-37.png)
